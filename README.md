@@ -13,7 +13,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 - First, take the number of equations.
 - Then read all the values of the augmented matrix (the left side + the constants).
 
-### **Step 2: Make sure the math won’t break**
+### **Step 2: Make sure the calculations are correct**
 - Before doing any division, check that the pivot number isn’t zero.
 - If it *is* zero, the process can’t continue.
 
